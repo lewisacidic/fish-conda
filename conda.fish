@@ -1,3 +1,4 @@
+set -g __lewisacidic_fish_conda_version 0.1.0
 
 if not set -q CONDA_ROOT
   set -l locations = anaconda anaconda3 miniconda miniconda3

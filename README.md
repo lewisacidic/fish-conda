@@ -1,5 +1,7 @@
 # fish-conda
-Package implementing [conda](https://docs.conda.io/en/latest/) support for the [fish shell](https://fishshell.com).
+
+Package implementing [conda](https://docs.conda.io/en/latest/) support for the [fish shell](https://fishshell.com) :fish:.
+
 
 ## Installing
 
