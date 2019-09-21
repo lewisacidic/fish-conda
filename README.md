@@ -1,5 +1,7 @@
 # fish-conda
 
+NOTE: package no longer necessary and has been archived.  Run `conda init fish` to append appropriate scripts to `config.fish`.
+
 Package implementing [conda](https://docs.conda.io/en/latest/) support for the [fish shell](https://fishshell.com) :fish:.
 
 
